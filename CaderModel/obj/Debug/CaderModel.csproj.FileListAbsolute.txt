@@ -1,0 +1,13 @@
+E:\code\Projects\FormManagerInfo\CaderModel\bin\Debug\CaderModel.dll
+E:\code\Projects\FormManagerInfo\CaderModel\bin\Debug\CaderModel.pdb
+E:\code\Projects\FormManagerInfo\CaderModel\obj\Debug\CaderModel.dll
+E:\code\Projects\FormManagerInfo\CaderModel\obj\Debug\CaderModel.pdb
+E:\code\Projects\餐厅点餐管理系统\CaderModel\bin\Debug\CaderModel.dll
+E:\code\Projects\餐厅点餐管理系统\CaderModel\bin\Debug\CaderModel.pdb
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\Debug\CaderModel.dll
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\Debug\CaderModel.pdb
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\Debug\CaderModel.csprojResolveAssemblyReference.cache
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaderModel\bin\Debug\CaderModel.dll
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaderModel\bin\Debug\CaderModel.pdb
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaderModel\obj\Debug\CaderModel.dll
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaderModel\obj\Debug\CaderModel.pdb

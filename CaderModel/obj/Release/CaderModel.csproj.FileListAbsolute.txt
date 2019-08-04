@@ -1,0 +1,15 @@
+E:\code\Projects\餐厅点餐管理系统\CaderModel\bin\Release\CaderModel.dll
+E:\code\Projects\餐厅点餐管理系统\CaderModel\bin\Release\CaderModel.pdb
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\Release\CaderModel.dll
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\Release\CaderModel.pdb
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\Release\CaderModel.csprojResolveAssemblyReference.cache
+F:\51asp.net_9041_749696617734\CaderModel\bin\Release\CaderModel.dll
+F:\51asp.net_9041_749696617734\CaderModel\bin\Release\CaderModel.pdb
+F:\51asp.net_9041_749696617734\CaderModel\obj\Release\CaderModel.csprojResolveAssemblyReference.cache
+F:\51asp.net_9041_749696617734\CaderModel\obj\Release\CaderModel.dll
+F:\51asp.net_9041_749696617734\CaderModel\obj\Release\CaderModel.pdb
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaderModel\bin\Release\CaderModel.dll
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaderModel\bin\Release\CaderModel.pdb
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaderModel\obj\Release\CaderModel.csprojResolveAssemblyReference.cache
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaderModel\obj\Release\CaderModel.dll
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaderModel\obj\Release\CaderModel.pdb

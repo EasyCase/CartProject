@@ -1,0 +1,10 @@
+E:\code\Projects\餐厅点餐管理系统\CaderModel\bin\x86\Debug\CaderModel.dll
+E:\code\Projects\餐厅点餐管理系统\CaderModel\bin\x86\Debug\CaderModel.pdb
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\x86\Debug\CaderModel.dll
+E:\code\Projects\餐厅点餐管理系统\CaderModel\obj\x86\Debug\CaderModel.pdb
+E:\参考代码和有关工具\CartProject\CaderModel\bin\x86\Debug\CaderModel.dll
+E:\参考代码和有关工具\CartProject\CaderModel\bin\x86\Debug\CaderModel.pdb
+E:\参考代码和有关工具\CartProject\CaderModel\obj\x86\Debug\CaderModel.csprojAssemblyReference.cache
+E:\参考代码和有关工具\CartProject\CaderModel\obj\x86\Debug\CaderModel.csproj.CoreCompileInputs.cache
+E:\参考代码和有关工具\CartProject\CaderModel\obj\x86\Debug\CaderModel.dll
+E:\参考代码和有关工具\CartProject\CaderModel\obj\x86\Debug\CaderModel.pdb

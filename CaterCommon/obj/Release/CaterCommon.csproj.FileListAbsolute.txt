@@ -1,0 +1,15 @@
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\Release\CaterCommon.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\Release\CaterCommon.pdb
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\Release\CaterCommon.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\Release\CaterCommon.pdb
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\Release\CaterCommon.csprojResolveAssemblyReference.cache
+F:\51asp.net_9041_749696617734\CaterCommon\bin\Release\CaterCommon.dll
+F:\51asp.net_9041_749696617734\CaterCommon\bin\Release\CaterCommon.pdb
+F:\51asp.net_9041_749696617734\CaterCommon\obj\Release\CaterCommon.csprojResolveAssemblyReference.cache
+F:\51asp.net_9041_749696617734\CaterCommon\obj\Release\CaterCommon.dll
+F:\51asp.net_9041_749696617734\CaterCommon\obj\Release\CaterCommon.pdb
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaterCommon\bin\Release\CaterCommon.dll
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaterCommon\bin\Release\CaterCommon.pdb
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaterCommon\obj\Release\CaterCommon.csprojResolveAssemblyReference.cache
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaterCommon\obj\Release\CaterCommon.dll
+E:\参考代码和有关工具\51asp.net_9041_749696617734\CaterCommon\obj\Release\CaterCommon.pdb

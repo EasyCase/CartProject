@@ -1,0 +1,17 @@
+E:\code\Projects\FormManagerInfo\CaterCommon\bin\Debug\CaterCommon.dll
+E:\code\Projects\FormManagerInfo\CaterCommon\bin\Debug\CaterCommon.pdb
+E:\code\Projects\FormManagerInfo\CaterCommon\obj\Debug\CaterCommon.dll
+E:\code\Projects\FormManagerInfo\CaterCommon\obj\Debug\CaterCommon.pdb
+E:\code\Projects\FormManagerInfo\CaterCommon\obj\Debug\CaterCommon.csprojResolveAssemblyReference.cache
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\Debug\CaterCommon.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\Debug\CaterCommon.pdb
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.pdb
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\Debug\ChnCharInfo.xml
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\Debug\ChnCharInfo.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.csprojResolveAssemblyReference.cache
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\bin\Debug\CaterCommon.dll
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\bin\Debug\CaterCommon.pdb
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\bin\Debug\ChnCharInfo.xml
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.dll
+E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.pdb

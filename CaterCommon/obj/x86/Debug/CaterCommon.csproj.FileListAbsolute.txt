@@ -1,0 +1,14 @@
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\x86\Debug\CaterCommon.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\x86\Debug\CaterCommon.pdb
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\x86\Debug\ChnCharInfo.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\bin\x86\Debug\ChnCharInfo.xml
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\x86\Debug\CaterCommon.dll
+E:\code\Projects\餐厅点餐管理系统\CaterCommon\obj\x86\Debug\CaterCommon.pdb
+E:\参考代码和有关工具\CartProject\CaterCommon\bin\x86\Debug\CaterCommon.dll
+E:\参考代码和有关工具\CartProject\CaterCommon\bin\x86\Debug\CaterCommon.pdb
+E:\参考代码和有关工具\CartProject\CaterCommon\bin\x86\Debug\ChnCharInfo.xml
+E:\参考代码和有关工具\CartProject\CaterCommon\obj\x86\Debug\CaterCommon.csprojAssemblyReference.cache
+E:\参考代码和有关工具\CartProject\CaterCommon\obj\x86\Debug\CaterCommon.csproj.CoreCompileInputs.cache
+E:\参考代码和有关工具\CartProject\CaterCommon\obj\x86\Debug\CaterCommon.csproj.CopyComplete
+E:\参考代码和有关工具\CartProject\CaterCommon\obj\x86\Debug\CaterCommon.dll
+E:\参考代码和有关工具\CartProject\CaterCommon\obj\x86\Debug\CaterCommon.pdb

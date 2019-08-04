@@ -1,0 +1,13 @@
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormDishInfo.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormDishTypeInfo.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormHallInfo.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormLogin.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormMain.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FM.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormMemberInfo.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormMemberTypeInfo.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormOrderPay.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormOredrDish.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.FormTableInfo.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.Properties.Resources.resources
+E:\code\Projects\餐厅点餐管理系统\CaterUI\obj\x86\Release\CaterUI.csproj.GenerateResource.Cache
