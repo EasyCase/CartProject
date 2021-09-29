@@ -41,3 +41,20 @@ E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理�
 E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterBll\obj\Debug\CaterBll.csprojResolveAssemblyReference.cache
 E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterBll\obj\Debug\CaterBll.dll
 E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterBll\obj\Debug\CaterBll.pdb
+D:\Git\CartProject\CaterBll\bin\Debug\CaterBll.dll
+D:\Git\CartProject\CaterBll\bin\Debug\CaterBll.pdb
+D:\Git\CartProject\CaterBll\bin\Debug\CaderModel.dll
+D:\Git\CartProject\CaterBll\bin\Debug\CaterCommon.dll
+D:\Git\CartProject\CaterBll\bin\Debug\CaterDal.dll
+D:\Git\CartProject\CaterBll\bin\Debug\System.Data.SQLite.dll
+D:\Git\CartProject\CaterBll\bin\Debug\ChnCharInfo.dll
+D:\Git\CartProject\CaterBll\bin\Debug\CaderModel.pdb
+D:\Git\CartProject\CaterBll\bin\Debug\CaterCommon.pdb
+D:\Git\CartProject\CaterBll\bin\Debug\CaterDal.pdb
+D:\Git\CartProject\CaterBll\bin\Debug\System.Data.SQLite.xml
+D:\Git\CartProject\CaterBll\bin\Debug\ChnCharInfo.xml
+D:\Git\CartProject\CaterBll\obj\Debug\CaterBll.csprojAssemblyReference.cache
+D:\Git\CartProject\CaterBll\obj\Debug\CaterBll.csproj.CoreCompileInputs.cache
+D:\Git\CartProject\CaterBll\obj\Debug\CaterBll.csproj.CopyComplete
+D:\Git\CartProject\CaterBll\obj\Debug\CaterBll.dll
+D:\Git\CartProject\CaterBll\obj\Debug\CaterBll.pdb

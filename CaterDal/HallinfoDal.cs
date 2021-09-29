@@ -13,7 +13,7 @@ namespace CaterDal
         {
             string sql = "select * from hallInfo where hIsDelete=0";
             DataTable dt = SqliteHelper.GetDataTable(sql);
-
+            //dt.Rows = dt.Select(" Hid=1 ");
             List<HallInfo> list = new List<HallInfo>();
 
             foreach (DataRow row in dt.Rows)

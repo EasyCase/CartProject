@@ -8,7 +8,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.21022</ProductVersion>
-    <ProjectGuid>6ab89114-fd49-4a04-86f6-8fd42eecb214</ProjectGuid>
+    <ProjectGuid>ae00a05d-4075-4a73-b58e-cb63b0bd4e0b</ProjectGuid>
     <!-- update GUID here -->
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -52,20 +52,20 @@
       <Aliases>mqttf</Aliases>
     </Reference>
     <Reference Include="CaterCommon">
-      <HintPath>E:\参考代码和有关工具\CartProject\CaterCommon\bin\x86\Debug\CaterCommon.dll</HintPath>
+      <HintPath>D:\Git\CartProject\CaterCommon\bin\Debug\CaterCommon.dll</HintPath>
       <Aliases>cc</Aliases>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="CaderModel">
-      <HintPath>E:\参考代码和有关工具\CartProject\CaderModel\bin\x86\Debug\CaderModel.dll</HintPath>
+      <HintPath>D:\Git\CartProject\CaderModel\bin\Debug\CaderModel.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="CaterBll">
-      <HintPath>E:\参考代码和有关工具\CartProject\CaterBll\bin\x86\Debug\CaterBll.dll</HintPath>
+      <HintPath>D:\Git\CartProject\CaterBll\bin\Debug\CaterBll.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="ChnCharInfo">
-      <HintPath>E:\参考代码和有关工具\CartProject\CaterUI\bin\x86\Debug\ChnCharInfo.dll</HintPath>
+      <HintPath>D:\Git\CartProject\CaterUI\bin\x86\Debug\ChnCharInfo.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Core">
@@ -81,7 +81,7 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Data.SQLite">
-      <HintPath>E:\参考代码和有关工具\CartProject\lib\System.Data.SQLite.dll</HintPath>
+      <HintPath>D:\Git\CartProject\lib\System.Data.SQLite.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Deployment">
@@ -109,7 +109,7 @@
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="CaterDal">
-      <HintPath>E:\参考代码和有关工具\CartProject\CaterBll\bin\x86\Debug\CaterDal.dll</HintPath>
+      <HintPath>D:\Git\CartProject\CaterBll\bin\Debug\CaterDal.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System.Transactions">

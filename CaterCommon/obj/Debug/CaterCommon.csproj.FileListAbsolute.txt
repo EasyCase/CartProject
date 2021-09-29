@@ -15,3 +15,11 @@ E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理�
 E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\bin\Debug\ChnCharInfo.xml
 E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.dll
 E:\会员上传最新\2017_3_16\51asp.net_9041_749696617734\餐厅点餐管理系统\CaterCommon\obj\Debug\CaterCommon.pdb
+D:\Git\CartProject\CaterCommon\bin\Debug\CaterCommon.dll
+D:\Git\CartProject\CaterCommon\bin\Debug\CaterCommon.pdb
+D:\Git\CartProject\CaterCommon\bin\Debug\ChnCharInfo.xml
+D:\Git\CartProject\CaterCommon\obj\Debug\CaterCommon.csprojAssemblyReference.cache
+D:\Git\CartProject\CaterCommon\obj\Debug\CaterCommon.csproj.CoreCompileInputs.cache
+D:\Git\CartProject\CaterCommon\obj\Debug\CaterCommon.csproj.CopyComplete
+D:\Git\CartProject\CaterCommon\obj\Debug\CaterCommon.dll
+D:\Git\CartProject\CaterCommon\obj\Debug\CaterCommon.pdb
