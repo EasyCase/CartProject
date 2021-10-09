@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace CaterCommon
 {
+
+
+
     public partial class MD5Helper
     {
         public static string EncryptString(string str)
