@@ -10,6 +10,9 @@ namespace CaterBll
 {
     public partial class TableInfoBll
     {
+
+
+
         private TableInfoDal tiDal = new TableInfoDal();
         public List<TableInfo> GetList(Dictionary<string, string> dic)
         {
